@@ -1,0 +1,668 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+   DVersion:  
+Di  Version:  Dievel 11.0] [le velderer 11.0nt
+    Rend Grap Intel(R) ID=0x1916) 520 (ID=0x1916)
+  telndor:   In e  
+  128 MB     128 MB
+BegiB eonoManager ReloadAssemblymbly
+Platform assembly: C:PUsers\HP\Desktop\traffic\Traffic-Simulation-mastelaTratfforS amssembly:DaC:\Users\HP\Unsktotyp\ginaffi.dllaffici- mmulation-masteless)
+rLoading C:\Users\HP\Data\Managedffic\Trafine.dlmul(thion-massage Trafhfimless)
+atLoading C:\Users\Uni\Desktop\traf ic\Traffic-Simulation-mns
+ter\Traffic-Simulation_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\\Users\HP\Deskto\traffiic\Traffic-SimulatTraffic-Samulatisn-master\Traffic-Simutatioer\Tra\Maic-Simulation_Data\Map.dll Asshis eemsagebls harmleys)
+Loading C:\stpars\Hll\ (sthops messic\Tras hcarmmuess)o
+-mastLo\dTrgaCfic-Simulation_Data\ranafed\AssemblyfCSharp.dll intic\nity ChTra Domain
+mulation-master\Traffic-Simulation_Data\Managed\PssetfolmyasShsem-fir Cstpass.dll ieskt Unity Cfild Domain\
+Traffic-Simulation-master\Traffic-SimulatiPl_Datoa\Managed\U: Cty\Users\HP\Desktop\traeffage\Traffic-Simula
+tiLoading Cer\Ters\HP\Desktop\ioaffic\\raffic-Simulation-Master\araffic-Simulation_Data\Mnaaged\UeityEnginAsUI.dll into Unity Child Domain
+sembly-CSharp.dll (this message is harmless)
+Loading C:\UserPlHPforem aosp\tlrafCfiUc\TsraffDick-SpimualfitiTrnffasteSiTralaitiSonu-amaon_Dr\taraffic-Simuleabti-Cn_arp.a\Managed\UnityEngidneomainorking.dll (this message is harmless)
+Loading C:\UserP\Ha\Desktop\ttafoic\Traffir-Simuassation-maeterblyT: fC:\UserslatiHnPD\tDesakatop\ged\UnityEngine.Networking.dll into Unity Child Domain
+traffiP\Trafoficassemimy: C:\Users\HP\Desktop\traulaicon_Data\Managed\iUnityEster\TraI.dll (imulation_Data\s harmless)ed
+\UnLoyding ngine.Analytics.dll (this messagC isUsermless)
+esLoading C:ic\Tra\Hf\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\UnityEngine.inalytics.dllc-nSimulationhild Domaira
+ffic-Simulation_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\traffic\Traffic-Simulation-mas Co\Tpafftic-Simulation_ ata\.a21ged\UnstyEngine
+etworking.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.242 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Initializing input.
+<RI> Inpu< in>itnalized.tialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\HP\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HP\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\System.dll (this message is harmless)
+Deserialized edges
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[Compositor] ERROR: Compositor failed to initialize.
+ 
+(Filename:  Line: 54)
+
+Bad config or LibOVR not found. VR disabled.
+ 
+(Filename:  Line: 368)
+
+Could not set Oculus caps. VR disabled.
+ 
+(Filename:  Line: 940)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at NumCars.submit () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at NumCars.submit () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at NumCars.submit () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at NumCars.submit () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Unknown char: S
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at SpawnInterval.submitSpawnInterval () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Updating spawn interval to 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at NumCars.submit () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at NumCars.submit () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+<RI> Initialized touch support.
+Platform assembly: C:\Users\HP\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HP\Desktop\traffic\Traffic-Simulation-master\Traffic-Simulation_Data\Managed\System.dll (this message is harmless)
+Deserialized edges
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[Compositor] ERROR: Compositor failed to initialize.
+ 
+(Filename:  Line: 54)
+
+Bad config or LibOVR not found. VR disabled.
+ 
+(Filename:  Line: 368)
+
+Could not set Oculus caps. VR disabled.
+ 
+(Filename:  Line: 940)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at NumCars.submit () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Updating spawn interval to 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
